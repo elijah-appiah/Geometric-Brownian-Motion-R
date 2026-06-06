@@ -10,16 +10,14 @@ Geometric Brownian Motion is one of the most widely used stochastic processes in
 
 The GBM process is defined as:
 
-\[
-dS_t = \mu S_t dt + \sigma S_t dW_t
-\]
+$$dS_t = \mu S_t dt + \sigma S_t dW_t$$
 
 where:
 
-- **\(S_t\)** = Asset price at time *t*
-- **\(\mu\)** = Expected return (drift)
-- **\(\sigma\)** = Volatility
-- **\(dW_t\)** = Brownian motion increment
+- $S_t$ = Asset price at time *t*
+- $\mu$ = Expected return (drift)
+- $\sigma$ = Volatility
+- $dW_t$ = Brownian motion increment
 
 This simulation generates multiple possible future asset price paths using Monte Carlo techniques.
 
@@ -90,8 +88,7 @@ The script will:
 
 ```text
 ├── Brownian Motion Simulation.R
-├── images
-│   └── gbm_simulation.png
+├── gbm_simulation.png
 └── README.md
 ```
 
