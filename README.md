@@ -28,7 +28,7 @@ This simulation generates multiple possible future asset price paths using Monte
 ## 📊 Simulation Output
 
 <p align="center">
-  <img src="images/gbm_simulation.png" alt="Geometric Brownian Motion Simulation" width="850">
+  <img src="[images/gbm_simulation.png](https://github.com/elijah-appiah/Geometric-Brownian-Motion-R/blob/main/GBM%20Simulation.png)" alt="Geometric Brownian Motion Simulation" width="850">
 </p>
 
 ---
